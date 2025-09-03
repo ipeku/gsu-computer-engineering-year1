@@ -8,22 +8,22 @@ Each folder includes source code, documentation, and test cases (where applicabl
 ## 📂 Contents
 
 ### 1. RPN Calculator
-- **File:** `rpn-calculator.c`  
+- **File:** `rpn-calculator`  
 - **Description:** Implementation of a Reverse Polish Notation (RPN) calculator.  
 - **Key Concepts:** Stacks, expression evaluation, operator precedence.
 
 ### 2. Queue & Stack
-- **File:** `queue_and_stack.c`  
+- **File:** `queue-stack`  
 - **Description:** Data structure implementations for Queue and Stack.  
 - **Key Concepts:** FIFO and LIFO operations, dynamic memory management.
 
 ### 3. Linked List
-- **File:** `linked-list.c`  
+- **File:** `linked-list`  
 - **Description:** Implementation of singly linked list with basic operations (insert, delete, traverse).  
 - **Key Concepts:** Pointers, dynamic data structures, memory allocation.
 
 ### 4. Simple Linear Regression
-- **File:** `simple-linear-regression-assignment.c`  
+- **File:** `simple-linear-regression-assignment`  
 - **Description:** Assignment on implementing and analyzing Simple Linear Regression.  
 - **Key Concepts:** Linear models, regression analysis, data fitting.
 
